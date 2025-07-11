@@ -12,6 +12,8 @@ Why It Matters
 - Enables deeper tactical insights: line-breaking passes, transition play, and player role shifts.
 - Scalable for scouting, match analysis, training design, and broadcast enhancements.
 
-The output can also be visualized, shown in this basic visualization 
+The output can also be visualized, shown in this basic visualization: 
+
+<img width="688" height="420" alt="image" src="https://github.com/user-attachments/assets/e68fa633-4e7f-41a9-981f-3df2ab8caa9d" />
 <img width="312" height="155" alt="image" src="https://github.com/user-attachments/assets/77ef8e6d-bc80-4500-a531-a46e6a59016e" />
-<img width="966" height="591" alt="image" src="https://github.com/user-attachments/assets/aef81f89-d4dc-4d25-ad38-79b0377ca31a" />
+
