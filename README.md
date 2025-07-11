@@ -13,12 +13,5 @@ Why It Matters
 - Scalable for scouting, match analysis, training design, and broadcast enhancements.
 
 The output can also be visualized, shown in this basic visualization 
-+----------------+------------------+
-|     Label      |      Value       |
-+----------------+------------------+
-| Starting Zone  | Defensive Zone   |
-| Ending Zone    | Defensive Zone   |
-| Starting Line  | Defensive Line   |
-| Ending Line    | Defensive Line   |
-+----------------+------------------+
+<img width="312" height="155" alt="image" src="https://github.com/user-attachments/assets/77ef8e6d-bc80-4500-a531-a46e6a59016e" />
 <img width="966" height="591" alt="image" src="https://github.com/user-attachments/assets/aef81f89-d4dc-4d25-ad38-79b0377ca31a" />
