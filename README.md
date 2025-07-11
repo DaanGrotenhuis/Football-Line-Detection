@@ -1,5 +1,4 @@
 # Football-Line-Detection
-AI model that clusters football formation in the 3 essential lines (attacking, midfield, defense) based on position for football analysis
 
 Project to automatically label football passes based on the dynamic positioning of players and tactical formations. Unlike traditional static models, this system detects defensive, midfield, and attacking lines (which can be extended to real-time) using clustering techniques (K-Means, GMM, ACDC), even as formations shift fluidly during gameplay.
 
@@ -12,3 +11,6 @@ Why It Matters
 - Required to meet FIFA data standards for positional labeling.
 - Enables deeper tactical insights: line-breaking passes, transition play, and player role shifts.
 - Scalable for scouting, match analysis, training design, and broadcast enhancements.
+
+The output can also be visualized, shown in this basic visualization 
+<img width="966" height="591" alt="image" src="https://github.com/user-attachments/assets/aef81f89-d4dc-4d25-ad38-79b0377ca31a" />
