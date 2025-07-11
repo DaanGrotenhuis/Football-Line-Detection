@@ -1,6 +1,6 @@
 # Football-Line-Detection
 
-Project using football tracking data to automatically label football passes based on the dynamic positioning of players and tactical formations. Unlike traditional static models, this system detects defensive, midfield, and attacking lines (which can be extended to real-time) using clustering techniques (K-Means, GMM, ACDC), even as formations shift fluidly during gameplay.
+Project using football tracking data to automatically label football passes based on the dynamic positioning of players and tactical formations. Unlike traditional static models, this system detects defensive, midfield, and attacking lines (which can be extended to real-time) using clustering techniques, even as formations shift fluidly during gameplay.
 
 Key Features:
 - Converts raw positional XY data (5Hz) into labeled football intelligence: pass origin/destination by zone and line.
